@@ -15,8 +15,7 @@ dependance :
 
 
 Configuration :
-edit meteoracle.sh
-modify $ORACLE_HOME directory
+edit meteoracle.sh / modify $ORACLE_HOME directory
 
 Usage : 
 -------
