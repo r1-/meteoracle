@@ -23,4 +23,11 @@ Usage :
 
 meteoracle.sh IP
 
-
+Todo :
+------
+- read/write file on remote system
+- display oracle capabilities
+- grab all hashes in database (dblink, etc.)
+- other privilege escalations
+- find valid user without knowning password
+- other OS commands execute (library, oradebug, etc.)
