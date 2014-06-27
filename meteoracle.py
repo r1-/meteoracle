@@ -138,7 +138,7 @@ class connect:
 		self.sid=""
 		self.conn=""
 		self.auth=""
-		self.port=1521
+		self.port=str(1521)
 		self.sysdba=False
 		try:
 			f=open("sqlconnect.txt", "r")
